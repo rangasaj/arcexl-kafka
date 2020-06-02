@@ -1,2 +1,2 @@
-# arcexl-kafka
-Learning Kafka the interesting way
+# springboot-gradle-basicWebApp
+Basic Web App with Gradle and spring boot including data persistence in RDBMS along with test cases for all layers
