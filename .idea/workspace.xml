@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="133c3037-ca51-41b8-891a-df207f0b14cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-gradle-basicWebApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-gradle-basicWebApp" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-gradle-basicWebApp" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ckrbFRqkNLo5lzRvm4KgRJKJ2B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/me/jaga/arcexl/kafka/dao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.CodeStreamConfigurable" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.StockPriceDAOTest.testSelect">
+    <configuration name="StockPriceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.jaga.arcexl.kafka.StockPriceApp" />
+      <module name="springboot-gradle-basicWebApp.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.jaga.arcexl.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.jaga.arcexl.kafka.dao.TestA" />
+      <module name="springboot-gradle-basicWebApp.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.jaga.arcexl.kafka.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockPriceAppControllerIntegrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;me.jaga.arcexl.kafka.controller.StockPriceAppControllerIntegrationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StockPriceDAOTest.testDelete" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;me.jaga.arcexl.kafka.dao.StockPriceDAOTest.testDelete&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StockPriceDAOTest.testSelect" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;me.jaga.arcexl.kafka.dao.StockPriceDAOTest.testSelect&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StockPriceDAOTest.testSelect" />
+        <item itemvalue="Gradle.StockPriceDAOTest.testDelete" />
+        <item itemvalue="Application.StockPriceApp" />
+        <item itemvalue="Application.TestA" />
+        <item itemvalue="Gradle.StockPriceAppControllerIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133c3037-ca51-41b8-891a-df207f0b14cc" name="Default Changelist" comment="" />
+      <created>1591083501092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591083501092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="438" width="460" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591083553917">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="766" y="438" width="460" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/72.27.1848.1053@72.27.1848.1053" timestamp="1591083553917" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591088833431">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1591088833431" />
+    <state width="1806" height="350" key="GridCell.Tab.0.bottom" timestamp="1591128599216">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599216" />
+    <state width="1806" height="350" key="GridCell.Tab.0.center" timestamp="1591128599214">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599214" />
+    <state width="1806" height="350" key="GridCell.Tab.0.left" timestamp="1591128599213">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599213" />
+    <state width="1806" height="350" key="GridCell.Tab.0.right" timestamp="1591128599215">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599215" />
+    <state width="1806" height="350" key="GridCell.Tab.1.bottom" timestamp="1591128599218">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599218" />
+    <state width="1806" height="350" key="GridCell.Tab.1.center" timestamp="1591128599217">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599217" />
+    <state width="1806" height="350" key="GridCell.Tab.1.left" timestamp="1591128599216">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599216" />
+    <state width="1806" height="350" key="GridCell.Tab.1.right" timestamp="1591128599218">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1806" height="350" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591128599218" />
+    <state x="500" y="188" width="992" height="737" key="SettingsEditor" timestamp="1591124846132">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="500" y="188" width="992" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1591124846132" />
+    <state x="725" y="284" width="558" height="524" key="StructurePopup" timestamp="1591127634880">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="725" y="284" width="558" height="524" key="StructurePopup/72.27.1848.1053@72.27.1848.1053" timestamp="1591127634880" />
+    <state x="797" y="334" width="387" height="445" key="chooseDestDirectoryDialog" timestamp="1591089547706">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="797" y="334" width="387" height="445" key="chooseDestDirectoryDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1591089547706" />
+    <state x="544" y="286" width="893" height="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591125888074">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="544" y="286" width="893" height="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.1053@72.27.1848.1053" timestamp="1591125888074" />
+    <state x="700" y="304" width="582" height="506" key="refactoring.ChangeSignatureDialog" timestamp="1591124956545">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="700" y="304" width="582" height="506" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1591124956545" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1591127815162">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1591127815162" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/me/jaga/arcexl/kafka/dao/StockPriceDAOTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/me/jaga/arcexl/kafka/dao/StockPriceDAOTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
